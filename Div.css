@@ -1,0 +1,43 @@
+div
+{
+	width: 1885px;
+	height: 930px;
+	border: 5px solid purple;
+	overflow: auto;
+}
+
+p
+{
+   font-family: 'Jost', 'Futura', sans-serif;
+    
+   size: 50px;
+
+   color: green;
+}
+
+h1
+{
+	font-family: 'Jost', 'Futura', sans-serif;
+
+	size: 20px;
+
+	color: cyan;
+}
+
+h2
+{
+    font-family: 'Jost', 'Futura', sans-serif;
+    
+	size: 17px;
+
+	color: blue;
+}
+
+h3
+{
+    font-family: 'Jost', 'Futura', sans-serif;
+    
+	size: 14px;
+
+	color: darkblue;
+}
